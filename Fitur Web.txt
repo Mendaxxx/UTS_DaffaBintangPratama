@@ -1,0 +1,11 @@
+Selamat Pagi Pak Hendi, berikut ini adalah fitur yang ada dalam portofolio aplikasi berbasis web yang pernah saya kerjakan.
+
+Halaman utama
+
+1.Login dan Registrasi user baru yang terkoneksi dengan data di databas
+2.Dashboard POS yang berisikan aplikasi POS 
+3.Data yang berisikan kumpulan dari Data Transaksi, Data Barang, dan Data Pelanggan
+
+Pada aplikasi Pos sudah dilengkapi dengan stok aktual barang yang sudah terkoneksi dari database sehingga jika terjadi pengurangan langsung terlihat pada kasir, fitur ini dibuat untuk mencegah terjadinya kehabisan stok barang.
+
+Terimakasih Pak Hendi.
